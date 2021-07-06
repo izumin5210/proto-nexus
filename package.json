@@ -14,10 +14,10 @@
     "test:integration": "yarn generate:testapis && yarn build && yarn lerna run test:integration"
   },
   "devDependencies": {
-    "@types/google-protobuf": "3.7.4",
+    "@types/google-protobuf": "3.15.3",
     "@types/jest": "26.0.23",
     "frolint": "2.7.1",
-    "google-protobuf": "3.14.0",
+    "google-protobuf": "3.17.3",
     "graphql": "15.4.0",
     "graphql-scalars": "1.10.0",
     "jest": "27.0.6",
